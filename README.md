@@ -1,26 +1,29 @@
 <div align="center">
 
-# Hi, I'm G Likhith Kumar 👋
-
-### AI & Machine Learning Engineer (Student)
-**Computer Vision · Deep Learning · Lightweight AI Deployment**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="./assets/banner.svg" width="100%" alt="G Likhith Kumar, AI and Machine Learning Engineer (Student)"/>
 
 </div>
-
----
 
 ## 🚀 About Me
 
 - 🎓 B.E. in CSE (AI & ML), Nagarjuna College of Engineering and Technology
 - 🔬 I build applied AI systems, from model development to web applications
 - 🎯 Focus: CPU deployment, dataset auditing and model evaluation
+
+## 🛠️ Tech Stack
+
+<img src="./assets/skills.svg" width="100%" alt="Tech stack: Deep Learning, Transfer Learning, Computer Vision, MobileNetV3; PyTorch, TensorFlow, Keras, OpenCV; Python, JavaScript, HTML / CSS, FastAPI, React / Vite; Dataset Auditing, Patient-Level Splitting, Robustness"/>
+
+## 📊 Research Results
+
+<img src="./assets/accuracy.svg" width="100%" alt="SignBridge AI reported test accuracy: ASL 96.48%, ISL 94.62%, everyday signs 90.79%"/>
+
+## 💡 Projects at a Glance
+
+<img src="./assets/projects.svg" width="100%" alt="Projects: SignBridge AI: Static ASL &amp; ISL recognition; Krushak Hithaishi: Crop disease detection; RefillFlow AI: Prescription refill workflow; Trash to Tech: Waste image classification; AI Motivator: Mood-based motivation; Breast Cancer Research: Mammogram classification"/>
+
+<details>
+<summary><b>📖 Read full project details</b></summary>
 
 ## 🔬 Featured Research
 
@@ -49,11 +52,10 @@ Mammogram image classification using deep learning, transfer learning and featur
 | ♻️ **Trash to Tech** | Classifies plastic, wood, e-waste, metals and glass | Python, TensorFlow, Keras, OpenCV |
 | 😊 **AI Motivator** | Personalized motivation for Happy, Sad, Bored and Mixed moods | Python, AI/ML, Web Development |
 
----
+</details>
 
 <div align="center">
 
 ⭐ *Thanks for visiting my profile!*
 
 </div>
-
