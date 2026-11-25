@@ -20,9 +20,7 @@
 
 <img src="./assets/skills.svg" width="100%" alt="Tech stack: Deep Learning, Transfer Learning, Computer Vision, MobileNetV3; PyTorch, TensorFlow, Keras, OpenCV; Python, JavaScript, HTML / CSS, FastAPI, React / Vite; Dataset Auditing, Patient-Level Splitting, Robustness"/>
 
-## 📊 Research Results
 
-<img src="./assets/accuracy.svg" width="100%" alt="SignBridge AI reported test accuracy: ASL 96.48%, ISL 94.62%, everyday signs 90.79%"/>
 
 ## 💡 Projects at a Glance
 
