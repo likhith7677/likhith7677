@@ -3,6 +3,12 @@
 <img src="./assets/banner.svg" width="100%" alt="G Likhith Kumar, AI and Machine Learning Engineer (Student)"/>
 
 </div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/likhith-gavvala-779514298/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gavvalalikhithkumar@gmail.com)
+
+</div>
 
 ## 🚀 About Me
 
